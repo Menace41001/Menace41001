@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kush</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Gen AI enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menace41001&label=Profile%20views&color=0e75b6&style=flat" alt="menace41001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menace41001" alt="menace41001" /></a> </p>
 
-- 🔭 I’m currently working on **Parking managment**
+- 🔭 I’m currently working on **Mental Health Wellness System**
 
-- 🌱 I’m currently learning **Java script and ML**
-
-- 💬 Ask me about **C++, java , python, HTML , CSS**
+- 🌱 I’m currently Working with **RAG , Embedding , Langchain , Langgraph, N8N**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
